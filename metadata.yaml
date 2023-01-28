@@ -1,11 +1,16 @@
 _repo: The-southern-war-poetry-of-the-Civil-War_69681
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69681-h/images/cover.jpg
 creator:
   author:
     agent_name: Ellinger, Esther Parker
     gutenberg_agent_id: '55373'
     url: http://www.gutenberg.org/2009/agents/55373
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69681#The-southern-war-poetry-of-the-Civil-War
 gutenberg_issued: '2023-01-01'
 identifiers:
   gutenberg: '69681'
